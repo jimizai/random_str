@@ -13,13 +13,13 @@ cargo build --release
 Enter the length of the string to get a random string
 
 ```
-$  random_str -l 10
+$ random_str -l 10
 )Qy24XwDna
 ```
 
 The default length is 32
 
 ```
-$  random_str
+$ random_str
 Y&71Oy*c1$*m0m@0CXqN&8)KmRiQ0Cgr
 ```
